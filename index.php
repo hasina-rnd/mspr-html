@@ -21,6 +21,9 @@
                     <a class="nav-link" href="#">Télécharger</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#">Partenaires</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
                 </li>
                 <li class="nav-item dropdown">
@@ -62,6 +65,7 @@
         </div>
         <div>
             <p>image</p>
+            <button>Qui est derrière tout ce concept ?</button>
         </div>
     </section>
 <footer>
