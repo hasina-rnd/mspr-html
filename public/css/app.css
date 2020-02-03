@@ -1,3 +1,11 @@
+.navbar {
+  background-color: beige;
+}
+
+.card {
+  background-color: beige;
+}
+
 body {
-  background-color: red;
+  background-color: lightgreen;
 }

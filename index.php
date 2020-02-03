@@ -6,6 +6,76 @@
     <link rel="stylesheet" href="public/css/app.css">
 </head>
 <body>
-    <h1>Pratum Application</h1>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Accueil</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Télécharger</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        A propos
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="A propos">
+                        <a class="dropdown-item" href="#">Equipe</a>
+                        <a class="dropdown-item" href="#">Origines</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+</header>
+    <section>
+            <h1>Pratum Application</h1>
+        <div>
+            <p>Cette application va permettre à tous les fans de foot de jouer sur une pelouse bien entretenue et produire une jeu fluide et agréable à regarder.</p>
+            <button>Je télécharge l'application</button>
+        </div>
+        <div>
+            <p>Image</p>
+        </div>
+    </section>
+    <section>
+        <div>
+            <p>Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir la possibilité à des Clubs de foot amateur ou professionnel d'entretenir leur pelouse grâce à des sociétés ou des indépendants de jardiniers.</p>
+            <button>Quel est l'origine ?</button>
+        </div>
+            <h2>Collaboration dans le monde du football</h2>
+            <p>On imagine que le monde du football est un monde fermé et hostile. On peut détruire ce cliché grâce à cette application. Des jeunes jardiniers peuvent réaliser leur rêve en collaborant avec les clubs de foot de leur rêve. On leur offre la possibilité de voir d eprès leurs idoles.</p>
+    </section>
+    <section>
+        <div>
+            <h2>L'équipe</h2>
+            <p>L'équipe représente des fans de foot. Nous travaillons jour et nuit afin d'obtenir un résultat et une application à la hauteur du projet.</p>
+        </div>
+        <div>
+            <p>image</p>
+        </div>
+    </section>
+<footer>
+    <div class="card">
+        <div class="card-header">
+            Featured
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Special title treatment</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+    </div>
+    <p>©2019 par le Groupe Pratum</p>
+</footer>
 </body>
 </html>
