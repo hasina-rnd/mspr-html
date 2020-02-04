@@ -27,11 +27,10 @@
             </div>
         </div>
     </section>
-
     <section >
 
         <h2>Devenez partenaires</h2>
-        <p>Pour devenir partenaires ces simples il suffit juste de cotiser de façon annuelle à notre projet pour faire partie du groupe partenaires.</p>
+        <p>Pour devenir partenaires ces simples il suffit juste de cotiser de façon annuelle à notre projet pour faire partie du groupe partenaires.En remplissant ce formulaire vous aller faire partie de nos partenaires</p>
         <div class="container">
 
             <div class="form-group">
