@@ -27,7 +27,6 @@
         <h2>L'équipe</h2>
         <p class="lead">L'équipe représente des fans de foot. Nous travaillons jour et nuit afin d'obtenir un résultat et une
             application à la hauteur du projet.</p>
-        <img src="" alt="Ici il y aura une image">
         <button type="button" class="btn btn-success">Qui est derrière tout ce concept ?</button>
     </div>
 </section>

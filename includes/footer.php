@@ -14,13 +14,13 @@
         <h4>Catégories</h4>
         <ul class="list">
             <li>
-                <a class="" href="#">Télécharger</a>
+                <a class="" href="/mspr-html/telecharger.php">Télécharger</a>
             </li>
             <li>
                 <a class="" href="#">Mention Légale</a>
             </li>
             <li>
-                <a class="" href="#">Concept</a>
+                <a class="" href="/mspr-html/a-propos.php">Concept</a>
             </li>
         </ul>
     </div>

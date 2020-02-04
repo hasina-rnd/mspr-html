@@ -8,7 +8,9 @@
 <section class="container">
     <div>
         <p>Après avoir choisi le type de support sur lequel vous souhaitez télécharger, vous serez rediriger vers la plateforme de téléchargement.</p>
+        
     </div>
+
 </section>
 
 
