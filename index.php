@@ -2,7 +2,7 @@
 
 <section class="jumbotron">
     <div class="container">
-        <h1>Pratum Application</h1>
+        <h1 class="display-4">Pratum Application</h1>
         <p>Cette application va permettre à tous les fans de foot de jouer sur une pelouse bien entretenue et
             produire une jeu fluide et agréable à regarder.</p>
         <button class="btn btn-primary">Je télécharge l'application</button>
@@ -11,7 +11,7 @@
 </section>
 
 <section class="jumbotron">
-    <div class="container">
+    <div>
         <p>Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir
             la possibilité à des Clubs de foot amateur ou professionnel d'entretenir leur pelouse grâce à des sociétés
             ou des indépendants de jardiniers.</p>
@@ -23,7 +23,7 @@
         rêve. On leur offre la possibilité de voir d eprès leurs idoles.</p>
 </section>
 <section class="jumbotron">
-    <div class="container">
+    <div>
         <h2>L'équipe</h2>
         <p>L'équipe représente des fans de foot. Nous travaillons jour et nuit afin d'obtenir un résultat et une
             application à la hauteur du projet.</p>

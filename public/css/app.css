@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: #f2 #f2 #f2;
 }
 
 .navbar {
@@ -11,5 +11,10 @@ body {
 }
 
 .jumbotron {
-  background-color: transparent;
+  background-color: #f2 #f2 #f2;
+}
+
+.container {
+  margin: 30px;
+  padding: 5px;
 }
