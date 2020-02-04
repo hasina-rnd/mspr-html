@@ -24,7 +24,7 @@
                     <a class="nav-link" href="../mspr-html/index.php">Accueil</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">A propos</span></a>
+                    <a class="nav-link" href="../mspr-html/a-propos.php">A propos</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">L'équipe</span></a>

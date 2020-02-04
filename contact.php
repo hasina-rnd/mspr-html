@@ -4,33 +4,34 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Contact</title>
+    <title>Pratum - Contact</title>
+    <link rel="stylesheet" href="public/css/app.css">
 </head>
 
 <body>
 
 
 <div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
-    <span class="label-input100"> nom *</span>
+    <span class="label-input100">Nom</span>
     <input class="input100" type="text" name="name" placeholder="Entrez Votre Nom">
 </div>
 
 
 <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Enter Your Email (e@a.x)">
-    <span class="label-input100"> Email *</span>
+    <span class="label-input100">Email </span>
     <input class="input100" type="text" name="email" placeholder="Entrez Votre Maill ">
 </div>
 
 
 <div class="wrap-input100 validate-input bg1" data-validate="Votre numéro Siren">
-    <span class="label-input100"> Siren *</span>
+    <span class="label-input100">N° siren</span>
     <input class="input100" type="text" name="Siren" placeholder="Entrez votre numéro Siren">
 </div>
 
 
 
 <div class="wrap-input100 bg1 rs1-wrap-input100">
-    <span class="label-input100"> Telephone *</span>
+    <span class="label-input100">Téléphone</span>
     <input class="input100" type="text" name="phone" placeholder="Entrez votre numéro de téléphone">
 </div>
 
