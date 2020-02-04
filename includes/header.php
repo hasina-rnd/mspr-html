@@ -21,7 +21,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Accueil</span></a>
+                    <a class="nav-link" href="../mspr-html/index.php">Accueil</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">A propos</span></a>
@@ -33,7 +33,7 @@
                     <a class="nav-link" href="#">Partenaires</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Télécharger</span></a>
+                    <a class="nav-link" href="#">Contact</span></a>
                 </li>
             </ul>
         </div>
