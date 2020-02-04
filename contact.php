@@ -1,5 +1,8 @@
 <?php include_once 'includes/header.php'; ?>
 
+<section class="jumbotron">
+<p> Que vous soyez jardinier ou responsable d'un club de foot vous pouvez remplir ce formulaire pour etre mis en relation avec l'autre partie que vous rechercher</p>
+</section>
 <div class="container">
 
 <div class="form-group">
