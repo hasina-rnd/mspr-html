@@ -12,15 +12,15 @@
 <footer>
     <div class="card">
         <h4>Catégories</h4>
-        <ul>
+        <ul class="list">
             <li>
-                <a class="list" href="#">Télécharger</a>
+                <a class="" href="#">Télécharger</a>
             </li>
             <li>
-                <a class="list" href="#">Mention Légale</a>
+                <a class="" href="#">Mention Légale</a>
             </li>
             <li>
-                <a class="list" href="#">Concept</a>
+                <a class="" href="#">Concept</a>
             </li>
         </ul>
     </div>
