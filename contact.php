@@ -1,0 +1,49 @@
+<?php include_once 'includes/header.php'; ?>;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contact</title>
+</head>
+
+<body>
+
+*/ nom /*
+<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
+    <span class="label-input100">FULL NAME *</span>
+    <input class="input100" type="text" name="name" placeholder="Entrez Votre Nom">
+</div>
+
+*/ mail /*
+<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Enter Your Email (e@a.x)">
+    <span class="label-input100">Email *</span>
+    <input class="input100" type="text" name="email" placeholder="Entrez Votre Maill ">
+</div>
+
+*/ Siren /*
+<div class="wrap-input100 validate-input bg1" data-validate="Votre numéro Siren">
+    <span class="label-input100">Siren *</span>
+    <input class="input100" type="text" name="Siren" placeholder="Entrez votre numéro Siren">
+</div>
+
+
+*/ téléphone /*
+<div class="wrap-input100 bg1 rs1-wrap-input100">
+    <span class="label-input100">Phone*</span>
+    <input class="input100" type="text" name="phone" placeholder="Entrez votre numéro de téléphone">
+</div>
+
+*/ message /*
+<div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate="Please Type Your Message">
+    <span class="label-input100">Message</span>
+    <textarea class="input100" name="message" placeholder="Entrez votre message..."></textarea>
+</div>
+
+<button type="button" class="btn btn-outline-primary">Primary</button>
+
+</body>
+</html>
+
+
+
