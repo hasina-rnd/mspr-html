@@ -11,7 +11,7 @@
 
 <section>
     <div class="container">
-        <img class="image" src="/mspr-html/pelouse.jfif" alt="pelouse">
+        <img class="image" src="" alt="football">
         <p class="lead">Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir
             la possibilité à des Clubs de foot amateur ou professionnel d'entretenir leur pelouse grâce à des sociétés
             ou des indépendants de jardiniers.</p>

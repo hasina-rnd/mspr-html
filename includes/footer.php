@@ -11,7 +11,20 @@
 
 <footer>
     <div class="card">
-    <p>COOOL</p>
+        <h4>Catégories</h4>
+        <ul>
+            <li>
+                <a class="list" href="#">Télécharger</a>
+            </li>
+            <li>
+                <a class="list" href="#">Mention Légale</a>
+            </li>
+            <li>
+                <a class="list" href="#">Concept</a>
+            </li>
+        </ul>
+    </div>
+    <div class="card">
     <p>©2019 par le Groupe Pratum</p>
     </div>
 </footer>
