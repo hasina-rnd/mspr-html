@@ -1,11 +1,13 @@
 @import "variables";
 
+@import "layout/main";
 @import "layout/header";
 @import "layout/footer";
-@import "layout/main";
 
 @import "pages/home";
 @import "pages/contact";
 
 @import "components/button";
 @import "components/form";
+@import "components/jumbotron";
+@import "components/list";
