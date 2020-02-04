@@ -1,20 +1,13 @@
-body {
-  background-color: #f2 #f2 #f2;
-}
-
 .navbar {
   background-color: beige;
 }
 
 .card {
-  background-color: beige;
-}
-
-.jumbotron {
-  background-color: #f2 #f2 #f2;
+  background-color: #8fff7b;
 }
 
 .container {
   margin: 30px;
   padding: 5px;
 }
+

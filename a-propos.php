@@ -1,12 +1,5 @@
 <?php include_once 'includes/header.php'; ?>
-<!doctype html>
-<html lang="fr">
-<head>
-    <meta charset="utf-8">
-    <title>Pratum - A propos</title>
-    <link rel="stylesheet" href="public/css/app.css">
-</head>
-<body>
+
     <div>
         <h1>Le concept</h1>
         <p>IMAGE</p>
@@ -24,10 +17,6 @@
         </div>
     </section>
 
-
-
-</body>
-</html>
 
 
 
