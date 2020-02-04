@@ -3,26 +3,26 @@
     <section class="jumbotron">
         <div class="container">
             <h1 class="display-4">Découvrez nos partenaires</h1>
-            <p>Cette application travaille avec de nombreux partenaires que ce soit aux niveaux des clubs de football et de rugby ou mêmes des jardiniers.</p>
+            <p>Cette application travaille avec de nombreux partenaires que ce soit au niveau des clubs de football et de rugby ou même des jardiniers.</p>
 
             <div class="card" style="width: 18rem;">
                 <img src="public/images/sportingsols.jpg" class="card-img-top" alt="sportingsols">
                 <div class="card-body">
-                    <p class="card-text">txt.</p>
+                    <p class="card-text">L'entreprise Sportingsols est spécilisée dans la création du terrain en herbe.</p>
                 </div>
             </div>
 
             <div class="card" style="width: 18rem;">
-                <img src="public/images/nantes-metropole.jfif" class="card-img-top" alt="Nantes-métropole">
+                <img src="public/images/blanloeil.jpg" class="card-img-top" alt="blanloeil">
                 <div class="card-body">
-                    <p class="card-text">txt.</p>
+                    <p class="card-text">Le paysagiste Blanloeil est spécialisé dans l'entretien de la pelouse de football.</p>
                 </div>
             </div>
 
             <div class="card" style="width: 18rem;">
                 <img src="public/images/coseec.png" class="card-img-top" alt="Coseec">
                 <div class="card-body">
-                    <p class="card-text">txt.</p>
+                    <p class="card-text">L'entreprise Coseec est aussi spécialisée dans l'entretien de la pelouse de rugby.</p>
                 </div>
             </div>
 
