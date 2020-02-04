@@ -16,3 +16,8 @@
 .container {
   margin-left: 50px;
 }
+
+.image {
+  width: 250px;
+  height: 250px;
+}
