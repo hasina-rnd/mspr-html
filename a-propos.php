@@ -4,15 +4,16 @@
     <div>
         <h1 class="display-4">Le concept</h1>
         <img src="#" alt="ici il y aura une image">
+        <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
     </div>
-    <button type="button" class="btn btn-success">Télécharger l'application</button>
+
 </section>
     <section>
-        <div>
+        <div class="container">
             <h2>Les origines</h2>
             <p>Texte sur l'histoire</p>
         </div>
-        <div>
+        <div class="container">
             <h2>Le football</h2>
             <p>Texte sur le football et le lien avec les terrains de foot</p>
             <p>IMAGE</p>

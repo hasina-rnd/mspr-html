@@ -1,11 +1,11 @@
 <?php include_once 'includes/header.php'; ?>
 
 <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
-    <div class="container">
+    <div>
         <h1 class="display-4">Pratum Application</h1>
         <p class="lead">Cette application va permettre à tous les fans de foot de jouer sur une pelouse bien entretenue et
             produire une jeu fluide et agréable à regarder.</p>
-        <button type="button" class="btn btn-success">Je télécharge l'application</button>
+        <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
     </div>
 </section>
 

@@ -2,7 +2,8 @@
 
 <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
     <h1 class="display-4">Contact</h1>
-    <p> Que vous soyez jardinier ou responsable d'un club de foot vous pouvez remplir ce formulaire pour etre mis en relation avec l'autre partie que vous rechercher</p>
+    <p class="lead"> Que vous soyez jardinier ou responsable d'un club de foot vous pouvez remplir ce formulaire pour etre mis en relation avec l'autre partie que vous rechercher</p>
+    <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
 </section>
 <div class="container">
 
