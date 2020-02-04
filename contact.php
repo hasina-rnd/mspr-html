@@ -27,7 +27,7 @@
         <input class="form-control" type="textarea" name="message"  placeholder="Entrez votre message">
     </div>
 
-<button type="button" class="btn btn-outline-primary">Primary</button>
+<button type="button" class="btn btn-outline-success">Envoyer</button>
 </div>
 
 <?php include_once 'includes/footer.php'; ?>

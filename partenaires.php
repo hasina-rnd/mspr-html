@@ -32,14 +32,30 @@
 
         <h2>Devenez partenaires</h2>
         <p>Pour devenir partenaires ces simples il suffit juste de cotiser de façon annuelle à notre projet pour faire partie du groupe partenaires.</p>
+        <div class="container">
+
+            <div class="form-group">
+                <span for="name">société</span>
+                <input class="form-control" name="name" id="name" placeholder="Entrez Votre Nom de Société">
+            </div>
+            <div class="form-group">
+                    <span for="name">Capitaux apportés</span>
+                    <input class="form-control" name="name" id="name" placeholder="Entrez le nombre de capitaux que vous souhaitez apportez">
+                </div>
+            <div class="form-group">
+                <span for="name">Durée du partenariat</span>
+                <input class="form-control" name="name" id="name" placeholder="Entrez la durée du partenariat">
+            </div>
     </section>
     <section >
         <div>
             <h3>Les avantages de devenir partenaires</h3>
-            
+
                 <ul>
                     <li>La présence aux différents réunions</li>
                     <li>Etre au courant des comptes de la société</li>
+                    <li>Se faire connaître du grand public</li>
+                    <li>Acquérir de nouveaux clients</li>
                 </ul>
         </div>
     </section>
