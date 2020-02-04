@@ -1,50 +1,34 @@
 <?php include_once 'includes/header.php'; ?>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Pratum - Contact</title>
-    <link rel="stylesheet" href="public/css/app.css">
-</head>
+<div class="container">
 
-<body>
-
-
-<div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
-    <span class="label-input100">Nom</span>
-    <input class="input100" type="text" name="name" placeholder="Entrez Votre Nom">
+<div class="form-group">
+    <span for="name">Nom</span>
+    <input class="form-control" name="name" id="name" placeholder="Entrez Votre Nom">
 </div>
 
-
-<div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Enter Your Email (e@a.x)">
-    <span class="label-input100">Email </span>
-    <input class="input100" type="text" name="email" placeholder="Entrez Votre Maill ">
+<div class="form-group">
+    <span for="email">Email</span>
+    <input class="form-control" type="email" name="email" id="email" placeholder="Entrez votre email">
 </div>
 
+    <div class="form-group">
+        <span for="siren">N° siren</span>
+        <input class="form-control" type="text" name="Siren"  placeholder="Entrez votre numéro Siren">
+    </div>
 
-<div class="wrap-input100 validate-input bg1" data-validate="Votre numéro Siren">
-    <span class="label-input100">N° siren</span>
-    <input class="input100" type="text" name="Siren" placeholder="Entrez votre numéro Siren">
-</div>
+    <div class="form-group">
+        <span for="téléphone">N° de téléphone</span>
+        <input class="form-control" type="text" name="téléphone"  placeholder="Entrez votre numéro de téléphone">
+    </div>
 
-
-
-<div class="wrap-input100 bg1 rs1-wrap-input100">
-    <span class="label-input100">Téléphone</span>
-    <input class="input100" type="text" name="phone" placeholder="Entrez votre numéro de téléphone">
-</div>
-
-
-<div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate="Please Type Your Message">
-    <span class="label-input100"> Message </span>
-    <textarea class="input100" name="message" placeholder="Entrez votre message..."></textarea>
-</div>
+    <div class="form-group">
+        <span for="message">Message</span>
+        <input class="form-control" type="textarea" name="message"  placeholder="Entrez votre message">
+    </div>
 
 <button type="button" class="btn btn-outline-primary">Primary</button>
+</div>
 
-</body>
-</html>
-
-
+<?php include_once 'includes/footer.php'; ?>
 
