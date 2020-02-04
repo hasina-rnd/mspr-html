@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section class="jumbotron" style="background-image: url(/mspr-html/images/pelouse.JPG)">
+<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
     <div class="container">
         <h1 class="display-4">Pratum Application</h1>
         <p class="lead">Cette application va permettre à tous les fans de foot de jouer sur une pelouse bien entretenue et
