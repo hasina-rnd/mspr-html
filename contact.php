@@ -1,42 +1,43 @@
-<?php include_once 'includes/header.php'; ?>;
+<?php include_once 'includes/header.php'; ?>
 
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Contact</title>
+    <title>Pratum - Contact</title>
+    <link rel="stylesheet" href="public/css/app.css">
 </head>
 
 <body>
 
-*/ nom /*
+
 <div class="wrap-input100 validate-input bg1" data-validate="Please Type Your Name">
-    <span class="label-input100">FULL NAME *</span>
+    <span class="label-input100">Nom</span>
     <input class="input100" type="text" name="name" placeholder="Entrez Votre Nom">
 </div>
 
-*/ mail /*
+
 <div class="wrap-input100 validate-input bg1 rs1-wrap-input100" data-validate="Enter Your Email (e@a.x)">
-    <span class="label-input100">Email *</span>
+    <span class="label-input100">Email </span>
     <input class="input100" type="text" name="email" placeholder="Entrez Votre Maill ">
 </div>
 
-*/ Siren /*
+
 <div class="wrap-input100 validate-input bg1" data-validate="Votre numéro Siren">
-    <span class="label-input100">Siren *</span>
+    <span class="label-input100">N° siren</span>
     <input class="input100" type="text" name="Siren" placeholder="Entrez votre numéro Siren">
 </div>
 
 
-*/ téléphone /*
+
 <div class="wrap-input100 bg1 rs1-wrap-input100">
-    <span class="label-input100">Phone*</span>
+    <span class="label-input100">Téléphone</span>
     <input class="input100" type="text" name="phone" placeholder="Entrez votre numéro de téléphone">
 </div>
 
-*/ message /*
+
 <div class="wrap-input100 validate-input bg0 rs1-alert-validate" data-validate="Please Type Your Message">
-    <span class="label-input100">Message</span>
+    <span class="label-input100"> Message </span>
     <textarea class="input100" name="message" placeholder="Entrez votre message..."></textarea>
 </div>
 
