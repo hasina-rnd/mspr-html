@@ -29,7 +29,7 @@
                     <a class="nav-link" href="#">L'équipe</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Partenaires</span></a>
+                    <a class="nav-link" href="./partenaires.php">Partenaires</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="./contact.php">Contact</span></a>
