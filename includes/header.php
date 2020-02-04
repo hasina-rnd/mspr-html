@@ -33,7 +33,7 @@
                     <a class="nav-link" href="#">Partenaires</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Contact</span></a>
+                    <a class="nav-link" href="../mspr-html/contact.php">Contact</span></a>
                 </li>
             </ul>
         </div>
