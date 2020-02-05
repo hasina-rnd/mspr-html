@@ -13,12 +13,16 @@
   padding: 0;
 }
 
-.opacity {
-  opacity: 0.7;
+.color-background {
+  opacity: 0.7px;
 }
 
 .card {
   background-color: #00D360;
+}
+
+.title-home {
+  margin-bottom: 300px;
 }
 
 .contact {
@@ -44,7 +48,7 @@
   padding: 0 15px;
 }
 
-.btn btn-success {
+.btn-home {
   margin-left: 300px;
 }
 

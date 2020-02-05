@@ -17,7 +17,7 @@
                 <a class="" href="/mspr-html/telecharger.php">Télécharger PRATUM</a>
             </li>
             <li>
-                <a class="" href="/mspr-html/a-propos.php">Notre concept</a>
+                <a class="" href="/mspr-html/le-concept.php">Notre concept</a>
             </li>
             <li>
                 <a class="" href="/mspr-html/mention-legale.php">Mentions Légales</a>

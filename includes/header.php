@@ -27,7 +27,7 @@
                     <a class="nav-link" href="./">Accueil</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="./a-propos.php">Le concept</span></a>
+                    <a class="nav-link" href="./le-concept.php">Le concept</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="./page-equipe.php">L'équipe</span></a>
