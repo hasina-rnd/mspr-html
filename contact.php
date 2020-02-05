@@ -5,9 +5,15 @@
     <p class="lead">Une question sur le projet, une idée d'amélioration ? Contactez-nous via le formulaire de contact ci-dessous.</p>
     <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
 </section>
+
 <section class="container">
-        <div class="contact">
+
+<div class="container">
         <h2>Formulaire de contact</h2>
+
+
+        <div class="container" >
+
             <div class="form-group" style="max-width: 500px">
                 <span for="name">Votre Nom</span>
                 <input class="form-control" name="name" id="name" placeholder="Entrez votre nom">
@@ -32,9 +38,12 @@
                 <span for="message">Votre message</span>
                 <input class="form-control" type="textarea" name="message"  placeholder="Entrez votre message">
             </div>
+
         </div>
         <button style="margin-bottom: 2em;" type="button" class="btn btn-outline-success">Envoyer</button>
 </section>
+
+
 <?php include_once 'includes/footer.php'; ?>
 
 
