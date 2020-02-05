@@ -1,10 +1,8 @@
 <?php include_once 'includes/header.php'; ?>
-<<<<<<< Updated upstream
-<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
-=======
+
 
 <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
->>>>>>> Stashed changes
+
     <div>
         <h1 class="display-4">Mentions légales</h1>
     </div>

@@ -22,10 +22,13 @@
   align-items: center;
 }
 
+<<<<<<< Updated upstream
 .card-price {
   background-color: #7DCEA0;
   border-radius: 10px;
 }
+=======
+>>>>>>> Stashed changes
 
 .title-home {
   margin-bottom: 300px;
@@ -38,6 +41,10 @@
   box-sizing: border-box;
 }
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 .form-group {
   margin-bottom: 2em;
   border-radius: 4px;
