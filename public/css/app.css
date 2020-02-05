@@ -6,6 +6,13 @@
   background-color: #8fff7b;
 }
 
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 15px;
+}
+
 .list li {
   list-style-type: none;
 }
@@ -13,12 +20,8 @@
   text-decoration: none;
 }
 
-.container {
-  margin-left: 50px;
-}
-
 .image {
-  width: 250px;
+  width: 250000px;
   height: 250px;
   border-radius: 30px;
 }
