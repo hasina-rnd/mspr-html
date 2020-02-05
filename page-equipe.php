@@ -38,6 +38,16 @@
         </p>
     </div>
 </section>
+<section class="container">
+    <div>
+        <h2>Hasina RANDRIAMORA</h2>
+        <img src="" alt="Photo de Hasina RANDRIAMORA">
+        <p class="lead">
+            Le numéro 10 est généralement le plus talentueux, le plus technique mais surtout le plus spectaculaire. Il dribble, il passe, il marque des buts, il sait tout faire même défendre.
+            Ce joueur apportera un équilibre à l'équipe. Zidane serait admiratif de le voir jouer. Del Piero serait impressionné par ses facilités à exécuter des dribbles. Ronaldinho aurait, d'après la légende, un poster de lui dans sa chambre. En bref, ce joueur est exceptionnel et parvient à mener l'équipe vers le haut grâce à son talent.
+        </p>
+    </div>
+</section>
 
 
 
