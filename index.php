@@ -8,9 +8,30 @@
     </div>
 </section>
 <section>
-    <h3 class="container">Téléchargez dès maintenant PRATUM !</h3>
+    <h3 class="container">2 offres claires et efficaces, à vous de choisir !</h3>
     <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card-price">
+                <div class="card-body">
+                    <h5 class="card-title">PRATUM Starter | <strong>79€/mois</strong></h5>
+                    <p class="card-text">Entretien d'une pelouse pour la saison entière. Engagement pendant 12 mois. <br>PREMIER MOIS OFFERT</p>
+                    <a href="#" class="btn btn-primary">Choisir cette offre</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card-price">
+                <div class="card-body">
+                    <h5 class="card-title">PRATUM Premium | <strong>109€/mois</strong></h5>
+                    <p class="card-text">Entretien de 5 pelouses pendant 1 an. Sans engagement. <br>PREMIER MOIS OFFERT</p>
+                    <a href="#" class="btn btn-primary">Choisir cette offre</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+
 <section>
     <div class="container">
         <p class="lead">Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir
