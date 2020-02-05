@@ -28,9 +28,7 @@
             Nous avons alors décidé de prendre notre téléphone et de passer de nombreux coups de fil qui nous mèneront vers la création de cette application mobile</p>
 
         </div>
-        <div class="container">
-            <img class="image" src="public/images/ballon-.jpg" alt="photo de ballon de foot sur une pelouse"
-        </div>
+        
 </section>
 
 
