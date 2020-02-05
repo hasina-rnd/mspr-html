@@ -1,11 +1,23 @@
 .contact {
   margin-bottom: 2em;
-  text-align: left;
+  border-radius: 4px;
+  padding: 12px;
+  box-sizing: border-box;
 
-}
+  }
 
 .form-group {
   margin-bottom: 2em;
+  border-radius: 4px;
+  padding: 12px;
 
+  .form-control {
+
+    &:hover {
+      background-color:red;
+    }
+  }
 }
+
+
 

@@ -19,11 +19,21 @@
 
 .contact {
   margin-bottom: 2em;
-  text-align: left;
+  border-radius: 4px;
+  padding: 12px;
+  box-sizing: border-box;
 }
 
 .form-group {
   margin-bottom: 2em;
+  border-radius: 4px;
+  padding: 12px;
+  box-sizing: border-box;
+}
+
+.form-control {
+    box-shadow: 3px 3px 20px 3px rgba(191,201,192,1);
+
 }
 
 .container {
