@@ -22,6 +22,7 @@
   align-items: center;
 }
 
+<<<<<<< Updated upstream
 .title-home {
   margin-bottom: 300px;
 }
@@ -33,13 +34,17 @@
   box-sizing: border-box;
 }
 
+=======
+>>>>>>> Stashed changes
 .form-group {
   margin-bottom: 2em;
   border-radius: 4px;
   padding: 12px;
 }
+
 .form-group .form-control:hover {
   background-color: beige;
+
 }
 
 .container {
