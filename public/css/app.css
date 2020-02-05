@@ -17,6 +17,15 @@
   background-color: #00D360;
 }
 
+.contact {
+  margin-bottom: 2em;
+  text-align: left;
+}
+
+.form-group {
+  margin-bottom: 2em;
+}
+
 .container {
   width: 100%;
   max-width: 1200px;
