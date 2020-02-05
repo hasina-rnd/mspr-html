@@ -8,27 +8,27 @@
 <div class="container">
 <h2>Formulaire de contact</h2>
 <div class="form-group"style="max-width: 500px">
-    <span for="name">Nom</span>
-    <input class="form-control" name="name" id="name" placeholder="Entrez Votre Nom">
+    <span for="name">Votre Nom</span>
+    <input class="form-control" name="name" id="name" placeholder="Entrez votre nom">
 </div>
 
 <div class="form-group"style="max-width: 500px">
-    <span for="email">Email</span>
-    <input class="form-control" type="email" name="email" id="email" placeholder="Entrez votre email">
+    <span for="email">E-mail</span>
+    <input class="form-control" type="email" name="email" id="email" placeholder="Entrez votre e-mail">
 </div>
 
     <div class="form-group"style="max-width: 500px">
-        <span for="siren">N° siren</span>
-        <input class="form-control" type="text" name="Siren"  placeholder="Entrez votre numéro Siren">
+        <span for="siren">Numéro SIRET</span>
+        <input class="form-control" type="text" name="Siren"  placeholder="Entrez votre numéro SIRET">
     </div>
 
     <div class="form-group"style="max-width: 500px">
-        <span for="téléphone">N° de téléphone</span>
+        <span for="téléphone">Numéro de téléphone</span>
         <input class="form-control" type="text" name="téléphone"  placeholder="Entrez votre numéro de téléphone">
     </div>
 
     <div class="form-group"style="max-width: 500px">
-        <span for="message">Message</span>
+        <span for="message">Votre message</span>
         <input class="form-control" type="textarea" name="message"  placeholder="Entrez votre message">
     </div>
 

@@ -14,13 +14,13 @@
         <h4>Catégories</h4>
         <ul class="list">
             <li>
-                <a class="" href="/mspr-html/telecharger.php">Télécharger</a>
+                <a class="" href="/mspr-html/telecharger.php">Télécharger PRATUM</a>
+            </li>
+            <li>
+                <a class="" href="/mspr-html/a-propos.php">Notre concept</a>
             </li>
             <li>
                 <a class="" href="/mspr-html/mention-legale.php">Mentions Légales</a>
-            </li>
-            <li>
-                <a class="" href="/mspr-html/a-propos.php">Concept</a>
             </li>
         </ul>
     </div>
