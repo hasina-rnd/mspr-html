@@ -1,17 +1,15 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section class="jumbotron text-light"
-         <div class="color-background" style="background-image: url(/mspr-html/images/pelouse.png)"></div>
+<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
     <div>
-        <h1 class="display-4">PRATUM, l'application qui redonne de la verdure à votre club !</h1>
-        <p class="lead">Une solution innovante, fiable et durable pour tous les clubs de Football !</p>
-        <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
+    <h1 class="display-4">PRATUM, l'application qui redonne de la verdure à votre club !</h1>
+    <p class="lead">Une solution innovante, fiable et durable pour tous les clubs de Football !</p>
+    <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
     </div>
 </section>
 <section>
     <h3 class="container">Téléchargez dès maintenant PRATUM !</h3>
     <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum">
-    <p class="lead">Le Football</p>
 </section>
 <section>
     <div class="container">
