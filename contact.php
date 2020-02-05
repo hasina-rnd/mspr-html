@@ -5,12 +5,10 @@
     <p class="lead"> Que vous soyez jardinier ou responsable d'un club de foot vous pouvez remplir ce formulaire pour etre mis en relation avec l'autre partie que vous rechercher</p>
     <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
 </section>
-<div class="container">
-    <div class="contact">
-    <h2>Formulaire de contact</h2>
-
-
-        <div class="container" >
+<section class="container">
+    <div>
+        <div class="contact">
+        <h2>Formulaire de contact</h2>
             <div class="form-group" style="max-width: 500px">
                 <span for="name">Votre Nom</span>
                 <input class="form-control" name="name" id="name" placeholder="Entrez votre nom">
@@ -36,9 +34,9 @@
                 <input class="form-control" type="textarea" name="message"  placeholder="Entrez votre message">
             </div>
         </div>
-
         <button style="margin-bottom: 2em;" type="button" class="btn btn-outline-success">Envoyer</button>
     </div>
+</section>
 <?php include_once 'includes/footer.php'; ?>
 
 
