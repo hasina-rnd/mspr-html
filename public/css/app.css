@@ -7,6 +7,12 @@
   line-height: 70px;
 }
 
+* {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
 .card {
   background-color: #8fff7b;
 }
@@ -26,7 +32,7 @@
 }
 
 .image {
-  width: 250000px;
+  width: 250px;
   height: 250px;
   border-radius: 30px;
 }

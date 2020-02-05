@@ -8,6 +8,8 @@
     <title>Pratum</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="public/css/app.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+
 </head>
 <body>
 <header id="header">
@@ -25,13 +27,13 @@
                     <a class="nav-link" href="./">Accueil</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="./a-propos.php">À propos</span></a>
+                    <a class="nav-link" href="./a-propos.php">Le concept</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="./page-equipe.php">L'équipe</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="./partenaires.php">Partenaires</span></a>
+                    <a class="nav-link" href="./partenaires.php">Nos partenaires</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="./contact.php">Contact</span></a>
