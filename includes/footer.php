@@ -17,7 +17,7 @@
                 <a class="" href="/mspr-html/telecharger.php">Télécharger</a>
             </li>
             <li>
-                <a class="" href="/mspr-html/mention-legale.php">Mention Légale</a>
+                <a class="" href="/mspr-html/mention-legale.php">Mentions Légales</a>
             </li>
             <li>
                 <a class="" href="/mspr-html/a-propos.php">Concept</a>

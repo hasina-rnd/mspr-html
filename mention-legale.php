@@ -1,7 +1,7 @@
 <?php include_once 'includes/header.php'; ?>
 <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
     <div>
-        <h1 class="display-4">Mention légale</h1>
+        <h1 class="display-4">Mentions légales</h1>
     </div>
 </section>
 
