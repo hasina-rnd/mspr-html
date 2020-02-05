@@ -13,6 +13,10 @@
   padding: 0;
 }
 
+.opacity {
+  opacity: 0.7;
+}
+
 .card {
   background-color: #00D360;
 }
@@ -28,12 +32,9 @@
   margin-bottom: 2em;
   border-radius: 4px;
   padding: 12px;
-  box-sizing: border-box;
 }
-
-.form-control {
-    box-shadow: 3px 3px 20px 3px rgba(191,201,192,1);
-
+.form-group .form-control:hover {
+  background-color: red;
 }
 
 .container {
@@ -50,8 +51,12 @@
   text-decoration: none;
 }
 
-.image {
+.image-download {
+  width: 250px;
+  height: 500px;
+}
+
+.image-store {
   width: 250px;
   height: 250px;
-  border-radius: 30px;
 }

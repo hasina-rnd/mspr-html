@@ -1,8 +1,9 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
+<section class="jumbotron text-light"
+         <div class="opacity" style="background-image: url(/mspr-html/images/pelouse.JPG)"></div>
     <div>
-        <h1 class="display-4">Pratum Application</h1>
+        <h1 class="display-4">PRATUM, l'application qui redonne de la verdure à votre club !</h1>
         <p class="lead">Une solution innovante, fiable et durable pour tous les clubs de Football !</p>
         <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
     </div>
@@ -10,7 +11,7 @@
 
 <section>
     <div class="container">
-        <img class="image" src="images/football.jpg" alt="football">
+        <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum">
         <p class="lead">Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir
             la possibilité à des Clubs de foot amateurs ou professionnels d'entretenir leurs pelouses grâce à des sociétés ou des jardiniers compétents.</p>
         <button type="button" class="btn btn-success">Quelle est l'origine ?</button>

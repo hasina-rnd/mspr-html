@@ -11,7 +11,7 @@
 
 <footer>
     <div class="card">
-        <h4>Catégories</h4>
+        <h4>Liens utiles</h4>
         <ul class="list">
             <li>
                 <a class="" href="/mspr-html/telecharger.php">Télécharger PRATUM</a>
@@ -25,6 +25,6 @@
         </ul>
     </div>
     <div class="card">
-    <p>©2019 par le Groupe Pratum</p>
+    <p>©2020 by PRATUM</p>
     </div>
 </footer>
