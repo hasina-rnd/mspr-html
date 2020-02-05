@@ -60,3 +60,15 @@
   width: 250px;
   height: 250px;
 }
+
+.image {
+  width: 350px;
+  margin-left: 350px;
+  border-radius: 40px;
+  box-shadow: 1px 0px 33px black;
+}
+
+.image-team {
+  width: 350px;
+  border-radius: 20px;
+}
