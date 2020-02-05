@@ -2,6 +2,11 @@
   background-color: beige;
 }
 
+.logo {
+  height: 70px;
+  line-height: 70px;
+}
+
 .card {
   background-color: #8fff7b;
 }
