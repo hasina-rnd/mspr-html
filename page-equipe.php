@@ -1,5 +1,5 @@
 <?php include_once 'includes/header.php'; ?>
-<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
+<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
     <div>
         <h1 class="display-4">L'équipe</h1>
         <p class="lead">Nous sommes à l'origine de la création de cette initiative collective.</p>

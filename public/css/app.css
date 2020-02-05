@@ -19,6 +19,7 @@
 
 .card {
   background-color: #00D360;
+  align-items: center;
 }
 
 .title-home {

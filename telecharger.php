@@ -1,8 +1,8 @@
 <?php include_once 'includes/header.php'; ?>
-<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
+<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
     <div>
         <h1 class="display-4">Télécharger l'application</h1>
-        <p class="lead">L'application est disponible dès maintenant au téléchargement ! Cliquez sur le Store fe votre choix :</p>
+        <p class="lead">L'application est disponible dès maintenant au téléchargement ! Cliquez sur le Store de votre choix :</p>
     </div>
 </section>
 <section class="container">

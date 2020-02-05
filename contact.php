@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)" >
+<section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)" >
     <h1 class="display-4">Contact</h1>
     <p class="lead">Une question sur le projet, une idée d'amélioration ? Contactez-nous via le formulaire de contact ci-dessous.</p>
     <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>

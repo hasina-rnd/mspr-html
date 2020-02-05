@@ -1,6 +1,6 @@
 <?php include_once 'includes/header.php'; ?>
 
-    <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.JPG)">
+    <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
         <div>
             <h1 class="display-4">Découvrez nos partenaires</h1>
             <p class="lead">Cette application travaille avec de nombreux partenaires que ce soit au niveau des clubs de football et de rugby ou même des jardiniers.</p>

@@ -23,8 +23,6 @@
                 <a class="" href="/mspr-html/mention-legale.php">Mentions Légales</a>
             </li>
         </ul>
-    </div>
-    <div class="card">
     <p>©2020 by PRATUM</p>
     </div>
 </footer>
