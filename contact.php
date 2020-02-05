@@ -6,7 +6,6 @@
     <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
 </section>
 <section class="container">
-    <div>
         <div class="contact">
         <h2>Formulaire de contact</h2>
             <div class="form-group" style="max-width: 500px">
@@ -35,7 +34,6 @@
             </div>
         </div>
         <button style="margin-bottom: 2em;" type="button" class="btn btn-outline-success">Envoyer</button>
-    </div>
 </section>
 <?php include_once 'includes/footer.php'; ?>
 
