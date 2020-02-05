@@ -26,7 +26,7 @@
                     <a class="nav-link" href="./a-propos.php">A propos</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">L'équipe</span></a>
+                    <a class="nav-link" href="./page-equipe.php">L'équipe</span></a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="./partenaires.php">Partenaires</span></a>
