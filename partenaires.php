@@ -4,7 +4,7 @@
         <div>
             <h1 class="display-4">Découvrez nos partenaires</h1>
             <p class="lead">Cette application travaille avec de nombreux partenaires que ce soit au niveau des clubs de football et de rugby ou même des jardiniers.</p>
-            <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
+            <a href="telecharger.php"><button type="button" class="btn btn-primary">Télécharger l'application</button></a>
         </div>
     </section>
 

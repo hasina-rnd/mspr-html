@@ -51,6 +51,9 @@
                     </li>
                 </ul>
             </div>
+            <div class="col" style="padding-left: 150px">
+                <a href="telecharger.php"><button type="button" class="btn btn-primary">Télécharger l'application</button></a>
+            </div>
         </div>
     <p class="lead" style="align-content: center">©2020 by PRATUM</p>
 </section>

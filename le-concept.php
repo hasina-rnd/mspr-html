@@ -4,7 +4,7 @@
     <div>
         <h1 class="display-4">Notre concept</h1>
         <p>Nous sommes heureux de vous présenter notre application.</p>
-        <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
+        <a href="telecharger.php"><button type="button" class="btn btn-primary">Télécharger l'application</button></a>
 
     </div>
 

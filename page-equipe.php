@@ -3,7 +3,7 @@
     <div>
         <h1 class="display-4">L'équipe</h1>
         <p class="lead">Nous sommes à l'origine de la création de cette initiative collective.</p>
-        <a href="telecharger.php"><button type="button" class="btn btn-success">Télécharger l'application</button></a>
+        <a href="telecharger.php"><button type="button" class="btn btn-primary">Télécharger l'application</button></a>
     </div>
 </section>
 
