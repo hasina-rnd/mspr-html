@@ -8,7 +8,7 @@
     </div>
 </section>
 <section>
-    <h3 class="container">2 offres claires et efficaces, à vous de choisir !</h3>
+    <h3 class="container">Une offre claire et efficace, à votre service !</h3>
     <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum" style="margin-left: 850px">
 </section>
 <section class="container">
