@@ -36,7 +36,7 @@
     <div class="container">
         <p class="lead">Le foot est une passion qui anime la vie de très nombreux enfants dans le monde. Notre objectif est d'offrir
             la possibilité à des Clubs de foot amateurs ou professionnels d'entretenir leurs pelouses grâce à des sociétés ou des jardiniers compétents.</p>
-        <a href="le-concept.php"><button type="button" class="btn btn-success">Quelle est l'origine ?</button></a>
+        <a href="le-concept.php"><button type="button" class="btn btn-success" style="margin-bottom: 20px">Quelle est l'origine ?</button></a>
         <h2>Un projet collaboratif innovant dans le monde du Football</h2>
         <p class="lead">On imagine que le monde du football est un monde fermé et hostile. On peut détruire ce cliché grâce à cette
             application. Des jeunes jardiniers peuvent réaliser leurs rêves en collaborant avec les clubs de Football de leur
@@ -48,7 +48,7 @@
         <h2>L'équipe</h2>
         <p class="lead">Nous sommes des fans de Football. Nous continuons de travailler afin de proposer un service de qualité et une
             application à la hauteur du projet.</p>
-        <a href="./page-equipe.php"><button type="button" class="btn btn-success">Qui se cache derrière ce concept ?</button></a>
+        <a href="./page-equipe.php"><button type="button" class="btn btn-success" style="margin-bottom: 20px;">Qui se cache derrière ce concept ?</button></a>
     </div>
 </section>
 
