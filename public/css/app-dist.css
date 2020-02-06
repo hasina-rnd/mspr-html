@@ -22,10 +22,13 @@
   align-items: center;
 }
 
+
 .card-price {
   background-color: #7DCEA0;
   border-radius: 10px;
 }
+
+
 
 .title-home {
   margin-bottom: 300px;
@@ -38,40 +41,37 @@
   box-sizing: border-box;
 }
 
+
 .form-group {
   margin-bottom: 2em;
   border-radius: 4px;
   padding: 12px;
 }
-
-.form-control:hover {
+.form-group .form-control:hover {
   background-color: beige;
+  background-color: grey;
 }
 
 .container {
   width: 100%;
   max-width: 1200px;
   margin: auto;
-  padding: 0px;
+  padding: 0 15px;
 }
 
 .btn-home {
   margin-left: 300px;
 }
 
-.list-link li {
+.list li {
   list-style-type: none;
 }
-.list-link li a {
+.list li a {
   text-decoration: none;
-  color: white;
-}
-.list-link li a:hover {
-  color: blue;
 }
 
 .image-download {
-  margin-right: 800px;
+  margin-left: 800px;
   width: 400px;
 }
 
@@ -82,7 +82,7 @@
 
 .image {
   width: 350px;
-  margin-right: 350px;
+  margin-left: 350px;
   border-radius: 40px;
   box-shadow: 1px 0px 33px black;
 }
