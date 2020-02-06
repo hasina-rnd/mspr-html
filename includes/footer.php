@@ -40,7 +40,7 @@
                 </li>
             </ul>
             </div>
-            <div class="col" style="padding-left: 300px">
+            <div class="col" style="padding-left: 350px">
                 <h4>Réseaux sociaux</h4>
                 <ul class="list-link">
                     <li>
@@ -61,7 +61,7 @@
         <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Recherche</button>
     </form>
     </div>
-    <p>©2020 by PRATUM</p>
+    <p class="lead" style="align-content: center">©2020 by PRATUM</p>
 </section>
 
 </footer>

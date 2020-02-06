@@ -9,7 +9,7 @@
 </section>
 <section>
     <h3 class="container">2 offres claires et efficaces, à vous de choisir !</h3>
-    <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum" style="margin-left: 0px">
+    <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum" style="margin-left: 800px">
     <div class="row">
         <div class="col-sm-6" style="margin-bottom: 30px">
             <div class="card-price">
@@ -30,6 +30,7 @@
             </div>
         </div>
     </div>
+    
 </section>
 
 <section>
