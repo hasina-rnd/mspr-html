@@ -9,20 +9,16 @@
     </section>
 
     <section class="container">
-
-        <div class="row" style="margin-bottom: 50px">
-                <div class="card" style="width: 18rem;">
-                    <img src="public/images/sportingsols.jpg" class="card-img-top" alt="Sportingsols">
-                    <p>buobui ui</p>
+                <div class="partenaires" style="text-align: center">
+                    <img src="public/images/logo-partenaires.svg" class="card-img-top" alt="logo-partenaires" style="max-width: 400px">
+                    <div class="space" style="margin-top: 25px">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis nisl facilisis metus condimentum aliquam.</p>
                 </div>
-
-            <img src="public/images/logo-partenaires.svg" alt="logo-des-différents-partenaires"
-
-
-
-
+                </div>
     </section>
         <div class="container">
+            <div class="space" style="margin-top: 50px">
+
             <h3>Les avantages de devenir partenaires</h3>
                 <ul>
                     <li>La présence aux différents réunions</li>
@@ -31,5 +27,7 @@
                     <li>Acquérir de nouveaux clients</li>
                 </ul>
         </div>
+        </div>
+
 
 <?php include_once 'includes/footer.php'; ?>
