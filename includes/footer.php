@@ -10,14 +10,11 @@
 </head>
 
 <footer>
-<section class="card">
+<section class="card" style="padding-top: 30px">
         <div class="row">
-            <div class="col" style="padding-right: 350px">
-            <h4>Liens utiles</h4>
+            <div class="col" style="padding-right: 200px">
+            <h4>Liens</h4>
             <ul class="list-link">
-                <li>
-                    <a href="/mspr-html/telecharger.php">Télécharger PRATUM</a>
-                </li>
                 <li>
                     <a href="/mspr-html/le-concept.php">Notre concept</a>
                 </li>
@@ -40,8 +37,8 @@
                 </li>
             </ul>
             </div>
-            <div class="col" style="padding-left: 350px">
-                <h4>Réseaux sociaux</h4>
+            <div class="col" style="padding-left: 200px">
+                <h4>Réseaux</h4>
                 <ul class="list-link">
                     <li>
                         <a href="https://www.instagram.com/" target="_blank">Instagram</a>
@@ -55,12 +52,6 @@
                 </ul>
             </div>
         </div>
-    <div class="col" style="padding-left: 1100px">
-    <form class="form-inline">
-        <input class="form-control mr-sm-2" type="recherche" placeholder="Recherche" aria-label="Recherche">
-        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Recherche</button>
-    </form>
-    </div>
     <p class="lead" style="align-content: center">©2020 by PRATUM</p>
 </section>
 
