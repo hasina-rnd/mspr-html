@@ -13,15 +13,12 @@
         <div class="row" style="margin-bottom: 50px">
                 <div class="card" style="width: 18rem;">
                     <img src="public/images/sportingsols.jpg" class="card-img-top" alt="Sportingsols">
-                    <p></p>
-                </div>
-                <div class="card" style="width: 18rem;">
-                    <img src="public/images/blanloeil.jpg" class="card-img-top" alt="Blanloeil">
+                    <p>buobui ui</p>
                 </div>
 
-                <div class="card" style="width: 18rem;">
-                    <img src="public/images/coseec.png" class="card-img-top" alt="Coseec">
-                </div>
+            <img src="public/images/logo-partenaires.svg" alt="logo-des-différents-partenaires"
+
+
 
 
     </section>
