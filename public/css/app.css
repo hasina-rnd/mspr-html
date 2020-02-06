@@ -25,6 +25,7 @@
 .card-price {
   background-color: #00D360;
   border-radius: 10px;
+  box-shadow: 1px 0 30px black;
 }
 
 .title-home {
