@@ -22,13 +22,10 @@
   align-items: center;
 }
 
-
 .card-price {
   background-color: #7DCEA0;
   border-radius: 10px;
 }
-
-
 
 .title-home {
   margin-bottom: 300px;
@@ -41,17 +38,14 @@
   box-sizing: border-box;
 }
 
-
-
-
 .form-group {
   margin-bottom: 2em;
   border-radius: 4px;
   padding: 12px;
 }
-.form-group .form-control:hover {
+
+.form-control:hover {
   background-color: beige;
-  background-color: grey;
 }
 
 .container {

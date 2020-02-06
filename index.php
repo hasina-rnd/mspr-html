@@ -11,7 +11,7 @@
     <h3 class="container">2 offres claires et efficaces, à vous de choisir !</h3>
     <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6" style="margin-bottom: 20px">
             <div class="card-price">
                 <div class="card-body">
                     <h5 class="card-title">PRATUM Starter | <strong>79€/mois</strong></h5>
