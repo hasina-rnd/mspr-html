@@ -9,7 +9,7 @@
 </section>
 <section>
     <h3 class="container">2 offres claires et efficaces, à vous de choisir !</h3>
-    <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum">
+    <img class="image-download" src="public/images/download-pratum.png" alt="download-pratum" style="margin-left: 0px">
     <div class="row">
         <div class="col-sm-6" style="margin-bottom: 30px">
             <div class="card-price">
@@ -51,7 +51,6 @@
         <a href="./page-equipe.php"><button type="button" class="btn btn-success" style="margin-bottom: 20px;">Qui se cache derrière ce concept ?</button></a>
     </div>
 </section>
-
 
 
 <?php include_once 'includes/footer.php'; ?>
