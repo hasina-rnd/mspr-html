@@ -9,12 +9,13 @@
     </section>
 
     <section class="container">
-                <div class="partenaires" style="text-align: center">
+        <div class="partenaires" style="text-align: center">
                     <img src="public/images/logo-partenaires.svg" class="card-img-top" alt="logo-partenaires" style="max-width: 400px">
                     <div class="space" style="margin-top: 25px">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis nisl facilisis metus condimentum aliquam.</p>
+                    <p>Sur cette image vous pouvez voir quelles sont les partenaires avec qui nous travaillons au quotidien.</p>
+                    <p>Beaucoup de nos partenaires sont dans le milieu du sport comme Nike, la Lfp. Mais aussi dans le milieu de l’entretien des pelouses comme Jardiland.</p>
                 </div>
-                </div>
+        </div>
     </section>
         <div class="container">
             <div class="space" style="margin-top: 50px">
@@ -28,6 +29,5 @@
                 </ul>
         </div>
         </div>
-
 
 <?php include_once 'includes/footer.php'; ?>
