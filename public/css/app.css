@@ -76,7 +76,6 @@
 
 .image-store {
   width: 250px;
-  height: 250px;
 }
 
 .image {
@@ -94,4 +93,12 @@
 .image-logo {
   height: 350px;
   padding-left: 350px;
+}
+
+.image-android {
+  width: 250px;
+}
+
+.image-apple {
+  width: 280px;
 }

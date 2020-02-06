@@ -27,7 +27,7 @@
             <p>Vous souhaitez collaborer ? Vous avez des idées qui visent à améliorer nos performances ? Ne soyez pas timides et envoyez nous vos suggestions sur <a href="./contact.php">notre page contact</a>.</p>
         </div>
         <div>
-            
+
         </div>
     </section>
 <?php include_once 'includes/footer.php'; ?>
