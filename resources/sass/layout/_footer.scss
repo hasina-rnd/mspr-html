@@ -1,12 +1,9 @@
-.card {
+#footer {
   background-color: #00D360;
-  align-items: center;
+  padding: 50px 0;
+
+  .copyright {
+    font-size: 18px;
+    text-align: center;
+  }
 }
-
-.card-price {
-  background-color: #00D360;
-  border-radius: 10px;
-  box-shadow: 1px 0 30px black;
-}
-
-

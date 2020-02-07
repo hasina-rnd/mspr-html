@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.btn-home {
+  margin-left: 300px;
+}
+
+.btn {
+  color: #00D360;
+}
