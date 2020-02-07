@@ -42,12 +42,12 @@
                         <label for="message">Votre message</label>
                         <input class="form-control" type="textarea" name="message" placeholder="Entrez votre message">
                     </div>
-                    <button style="margin-bottom: 2em;" type="button" class="btn btn-outline-success">Envoyer</button>
+                    <button type="button" class="btn btn-outline-success">Envoyer</button>
                 </form>
 
             </div>
             <div class="col">
-                <img src="https://placehold.it/500x700" class="d-block w-100" alt="">
+                <img src="https://placeholder.img/500x700" class="d-block w-100" alt="">
             </div>
         </div>
     </div>

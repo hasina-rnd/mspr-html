@@ -1,10 +1,10 @@
 <?php include_once 'includes/header.php'; ?>
 
     <section class="jumbotron text-light" style="background-image: url(/mspr-html/images/pelouse.png)">
-        <div>
+        <div class="container">
             <h1 class="display-4">Découvrez nos partenaires</h1>
             <p class="lead">Cette application travaille avec de nombreux partenaires que ce soit au niveau des clubs de football et de rugby ou même des jardiniers.</p>
-            <a href="telecharger.php"><button type="button" class="btn btn-primary">Télécharger l'application</button></a>
+            <a href="telecharger.php" class="btn btn-primary">Télécharger l'application</a>
         </div>
     </section>
 
