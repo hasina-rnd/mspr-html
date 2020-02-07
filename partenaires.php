@@ -24,7 +24,7 @@
         </div>
         <div>
             <h2>Collaborons ensemble !</h2>
-            <p>Vous souhaitez collaborer ? Vous avez des idées qui visent à améliorer nos performances ? Ne soyez pas timides et envoyez nous vos suggestions sur <a href="./contact.php">notre page contact</a>.</p>
+            <p class="lead">Vous souhaitez collaborer ? Vous avez des idées qui visent à améliorer nos performances ? Ne soyez pas timides et envoyez nous vos suggestions sur <a href="./contact.php">notre page contact</a>.</p>
         </div>
         <div>
 

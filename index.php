@@ -16,8 +16,8 @@
         <div class="col-sm-6" style="margin-top: -330px">
             <div class="card-price">
                 <div class="card-body">
-                    <h5 class="card-title">PRATUM Starter | <strong>79€/mois</strong></h5>
-                    <p class="card-text">Entretien d'une pelouse pour la saison entière. Engagement pendant 12 mois. <br>PREMIER MOIS OFFERT</p>
+                    <h5 class="card-title">PRATUM Starter | <strong>299,99€/mois</strong></h5>
+                    <p class="card-text">Entretien d'une pelouse pour la saison entière. Engagement pendant 12 mois. <br>LE PREMIER MOIS EST OFFERT</p>
                     <a href="./telecharger.php" class="btn btn-primary">Je télécharge l'application</a>
                 </div>
             </div>

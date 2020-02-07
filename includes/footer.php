@@ -46,9 +46,6 @@
                     <li>
                         <a href="https://www.facebook.com/" target="_blank">Facebook</a>
                     </li>
-                    <li>
-                        <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
-                    </li>
                 </ul>
             </div>
             <div class="col" style="padding-left: 150px">
